@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+using namespace std;
 /*****Recursion*****/
 // bool checkSum(int ind, int target, vector<int>& arr)    {
 //     if(target == 0)    {
